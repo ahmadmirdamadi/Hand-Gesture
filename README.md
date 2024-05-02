@@ -15,3 +15,5 @@ https://github.com/ahmadmirdamadi/Hand-Gesture/assets/113544813/fa412ce9-df9c-4e
 
 
 The program continues until the user presses the q button and the window is closed.
+
+Source:https://techvidvan.com/tutorials/hand-gesture-recognition-tensorflow-opencv/
